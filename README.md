@@ -7,4 +7,4 @@ I ❤️ many things in life. I maintain everything [in Neoteroi :octocat:](http
 - 🔭 I’m currently working on my open source projects [here :octocat:](https://github.com/Neoteroi)
 - 🌱 I’m currently learning `Rust` (but I have extremely little time)
 - 💬 Ask me about my open source projects
-- 📫 How to reach me: GitHub, Mastodon
+- 📫 How to reach me: GitHub
